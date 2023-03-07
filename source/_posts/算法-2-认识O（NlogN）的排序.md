@@ -4,7 +4,7 @@ typora-copy-images-to: ./算法-2-认识O（NlogN）的排序
 typora-root-url: ./算法-2-认识O（NlogN）的排序
 date: 2023-02-14 20:37:58
 tags:
-categories:
+categories: 算法
 ---
 
 ### 递归算法的时间复杂度- master公式  必须满足子递归的规模一样
