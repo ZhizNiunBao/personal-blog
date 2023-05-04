@@ -7,6 +7,8 @@ typora-copy-images-to: ./Hadoop-WordCount
 typora-root-url: ./Hadoop-WordCount
 ---
 
+# Hadoop-WordCount
+
 ​    <!--more-->
 
 ​			**Hadoop-WordCount**

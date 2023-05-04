@@ -7,7 +7,9 @@ typora-copy-images-to: ./Hadoop-MapReduce-01
 typora-root-url: ./Hadoop-MapReduce-01
 ---
 
+# Hadoop-MapReduce_01
 
+<!--more-->
 
 ![image-20211126234028483](/image-20211126234028483.png)
 

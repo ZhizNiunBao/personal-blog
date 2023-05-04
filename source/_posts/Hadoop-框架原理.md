@@ -7,6 +7,8 @@ typora-copy-images-to: ./Hadoop-框架原理
 typora-root-url: ./Hadoop-框架原理
 ---
 
+# Hadoop-框架原理
 
+<!--more-->
 
 ![image-20211201203517916](/image-20211201203517916.png)
